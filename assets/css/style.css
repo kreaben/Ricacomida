@@ -1,0 +1,54 @@
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+}
+.navbar-collapse{
+    text-align: end !important;
+}
+.card-title{
+    font-size: 40pt;
+}
+.carousel-indicators [data-bs-target]
+ {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+    top: 100%;
+}
+.carousel-indicators 
+ {
+    top: 100%;
+}
+.navbar-brand{
+    font-size: 37pt;
+    margin-left: 8rem
+    ;
+}
+h1{
+    font-family: 'Cabin', sans-serif;
+}
+
+footer{
+    font-family: 'Lobster', cursive;
+    font-size: 37pt;
+}
+.Ingredientes, .Preparacion{
+    font-family: 'Cabin', sans-serif;
+    font-size: 20pt;
+}
+h1{
+    font-size: 40pt;
+    font-family: 'Cabin', sans-serif;
+}
+.card-text{
+    font-size: 23pt;
+    font-family: 'Cabin', sans-serif;
+}
+.descripcion{
+    font-family: 'Cabin', sans-serif;
+    font-size: 16pt;
+}
+.nav-link{
+    font-size: 16pt;
+    font-family: 'Cabin', sans-serif;
+}
